@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gaton
-- 🌱 I’m currently learning ... Python, JavaScript, Lua
+- 🌱 I’m currently learning ... Python, JavaScript, Lua, HTML
 - 📫 How to reach me ... Discord: gaton#4888
 
 <div align="center">
