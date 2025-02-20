@@ -14,7 +14,7 @@
 
 ### 🛠 **Tecnologias que eu uso**
 <div style="display: flex; justify-content: center;">
-  <img align="center" alt="Lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+  <img align="center" alt="Lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,4 +40,24 @@
 ---
 
 ### 🏆 **Contribuições no GitHub**
+<div align="center">
+  <style>
+    @keyframes pulse {
+      0% { transform: scale(1); background-color: #ff69b4; }
+      50% { transform: scale(1.2); background-color: #ff1493; }
+      100% { transform: scale(1); background-color: #ff69b4; }
+    }
+    .animated-square {
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      margin: 5px;
+      background-color: #ff69b4;
+      animation: pulse 1s infinite alternate ease-in-out;
+    }
+  </style>
+  <div class="animated-square"></div>
+  <div class="animated-square"></div>
+</div>
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
