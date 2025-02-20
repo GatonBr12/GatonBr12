@@ -41,23 +41,8 @@
 
 ### 🏆 **Contribuições no GitHub**
 <div align="center">
-  <style>
-    @keyframes pulse {
-      0% { transform: scale(1); background-color: #ff69b4; }
-      50% { transform: scale(1.2); background-color: #ff1493; }
-      100% { transform: scale(1); background-color: #ff69b4; }
-    }
-    .animated-square {
-      display: inline-block;
-      width: 15px;
-      height: 15px;
-      margin: 5px;
-      background-color: #ff69b4;
-      animation: pulse 1s infinite alternate ease-in-out;
-    }
-  </style>
-  <div class="animated-square"></div>
-  <div class="animated-square"></div>
+  <img src="https://raw.githubusercontent.com/GatonBr12/GatonBr12/main/animated-squares.svg" width="50">
 </div>
+
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
