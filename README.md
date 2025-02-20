@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou o Dimas Júnior 👋</h1>
+<h1 align="center">Hello! I'm Dimas Júnior 👋</h1>
 
 <p align="center">
-  🚀 Desenvolvedor de <strong>sites</strong>, <strong>bots para Discord</strong>, <strong>FiveM</strong> e <strong>MTA</strong>, atuando no mercado com <strong>Lua, JavaScript e HTML</strong>.
+  🚀 Developer of <strong>websites</strong>, <strong>Discord bots</strong>, <strong>FiveM</strong>, and <strong>MTA</strong>, working in the market with <strong>Lua, JavaScript, and HTML</strong>.
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 **Tecnologias que eu uso**
+### 🛠 **Technologies I use**
 <div style="display: flex; justify-content: center;">
   <img align="center" alt="Lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,26 +23,18 @@
 
 ---
 
-### 📌 **Sobre Mim**
-- 🏆 **Experiência**: Trabalho com programação desde 2018/2019, focado em **FiveM, MTA, bots para Discord e desenvolvimento de sites**.  
-- 🔥 **Liderança**: Já liderei a parte de programação de 4 servidores de MTA e atualmente estou à frente de um grande projeto de RP no FiveM.  
-- 📌 **Habilidades**: Desenvolvimento em **Lua**, **JavaScript**, **HTML**, **CSS** e **Node.js** (para bots no Discord).  
-- 📚 **Atualmente aprendendo**: Aprimorando meus conhecimentos em **Python**, **Git** e frameworks para web.  
+### 📌 **About Me**
+- 🏆 **Experience**: I have been working with programming since 2018/2019, focusing on **FiveM, MTA, Discord bots, and website development**.  
+- 🔥 **Leadership**: I have led the programming team for 4 MTA servers and am currently leading a large RP project in FiveM.  
+- 📌 **Skills**: Development in **Lua**, **JavaScript**, **HTML**, **CSS**, and **Node.js** (for Discord bots).  
+- 📚 **Currently Learning**: Improving my knowledge in **Python**, **Git**, and web frameworks.  
 
 ---
 
-### 🔗 **Meus Contatos**
+### 🔗 **Contact Me**
 <div> 
   <a href="https://www.instagram.com/dimass.junior" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/722940568078123058" target="_blank"><img src="https://img.shields.io/badge/Discord-Gaton%234888-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 ---
-
-### 🏆 **Contribuições no GitHub**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GatonBr12/GatonBr12/main/animated-squares.svg" width="50">
-</div>
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
