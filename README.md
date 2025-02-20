@@ -1,29 +1,43 @@
-- 👋 Hi, I’m gaton
-- 🌱 I’m currently learning ... Python, JavaScript, Lua, HTML
-- 📫 How to reach me ... Discord: gaton#4888
+<h1 align="center">Olá! Eu sou o Dimas Júnior 👋</h1>
+
+<p align="center">
+  🚀 Desenvolvedor de <strong>sites</strong>, <strong>bots para Discord</strong>, <strong>FiveM</strong> e <strong>MTA</strong>, atuando no mercado com <strong>Lua, JavaScript e HTML</strong>.
+</p>
 
 <div align="center">
   <a href="https://github.com/GatonBr12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatonBr12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="gaton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-  <img align="center" alt="gaton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gaton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gaton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gaton-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/722940568078123058/d29a25beb70dffe4d2d6814de6cbdddf.png?width=676&height=676">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC8d4i2Qws__yez95zhwxA8A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatonBr12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
-<!---
-GatonBr12/GatonBr12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠 **Tecnologias que eu uso**
+<div style="display: flex; justify-content: center;">
+  <img align="center" alt="Lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+---
+
+### 📌 **Sobre Mim**
+- 🏆 **Experiência**: Trabalho com programação desde 2018/2019, focado em **FiveM, MTA, bots para Discord e desenvolvimento de sites**.  
+- 🔥 **Liderança**: Já liderei a parte de programação de 4 servidores de MTA e atualmente estou à frente de um grande projeto de RP no FiveM.  
+- 📌 **Habilidades**: Desenvolvimento em **Lua**, **JavaScript**, **HTML**, **CSS** e **Node.js** (para bots no Discord).  
+- 📚 **Atualmente aprendendo**: Aprimorando meus conhecimentos em **Python**, **Git** e frameworks para web.  
+
+---
+
+### 🔗 **Meus Contatos**
+<div> 
+  <a href="https://www.instagram.com/dimass.junior" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/722940568078123058" target="_blank"><img src="https://img.shields.io/badge/Discord-Gaton%234888-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+### 🏆 **Contribuições no GitHub**
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
